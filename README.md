@@ -4,41 +4,63 @@
 
  I. Bối cảnh
 
-Viet Youth Travel được thành lập vào năm 2011 tại thành phố Đà Nẵng, là một công ty cung cấp dịch vụ tour du lịch đi các điểm đến du lịch tại Việt Nam. Ở thời điểm thành lập, công ty cung cấp các tour du lịch đi Hội An, Đà Nẵng và Huế. Đến năm 2022, công ty mở rộng cung cấp các tour du lịch đi các địa điểm khác trong nước bao gồm Phú Quốc, Tp Hồ Chí MInh, Nha Trang, Đà Lạt, Hà Nội, Hạ Long, Sapa
+Viet Youth Travel được thành lập vào năm 2011 tại thành phố Đà Nẵng, là một công ty cung cấp dịch vụ tour du lịch đi các điểm đến du lịch tại Việt Nam. Ở thời điểm thành lập, công ty cung cấp các tour du lịch đi Hội An, Đà Nẵng và Huế. Bắt đầu từ năm 2022, công ty mở rộng cung cấp các tour du lịch đến các địa điểm khác trong nước bao gồm Phú Quốc, Tp Hồ Chí MInh, Nha Trang, Đà Lạt, Hà Nội, Hạ Long, Sapa.
 
-Bài báo cáo này sẽ phân tích xu hướng đặt tour của khách du lịch tại Viet Youth Travel nhằm chỉ ra quảng thời gian cao điểm, địa điểm, và nhóm khách. Đồng thời, bài báo cáo sẽ cung cấp các lời khuyên nhằm cải thiện sản phẩm và chất lượng.
-  
+Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại Tuổi Trẻ Việt Travel, nhằm xác định các giai đoạn cao điểm, sản phẩm du lịch chính và phân khúc khách hàng mục tiêu của công ty. Trên cơ sở này, báo cáo sẽ đề xuất các giải pháp chiến lược nhằm nâng cao chất lượng bán hàng, sản phẩm và dịch vụ, đồng thời cải thiện cơ sở dữ liệu.
+
  II. Tóm tắt kết quả tìm kiếm
 
  * Doanh thu tăng chậm trong năm 2022 và 2023. Sau đó tăng mạnh vào năm 2024 và 2025.
  
- * Thời điểm tiếp nhận lượng đặt tour và đi tour đông nhất rơi vào vào dịp nghỉ lễ (30/4, 1/5, 2/9, Tết) và đợt cao điểm du lịch hè (Tháng 5 - Tháng 7).
+ * Khách chủ yếu đặt tour đi du lịch vào các dịp nghỉ lễ (30/4, 1/5, 2/9, Tết) và đợt cao điểm du lịch hè (Tháng 5 - Tháng 7).
  
- * Các loại hình tour du lịch biển, gia đình, và khám phá văn hóa chiếm đa số.
- 
- * Các địa điểm du lịch nổi tiếng ở Việt Nam như Phú Quốc, Đà Nẵng và Nha Trang là lựa chọn hàng đầu của khách du lịch.
+ * Các loại hình tour du lịch biển, gia đình, và khám phá văn hóa chiếm đa số, với những địa điểm du lịch như Phú Quốc, Đà Nẵng và Nha Trang là lựa chọn hàng đầu của khách du lịch.
  
  * Nhóm khách du lịch chủ yếu là những người đã có gia đình, đang đi làm, hoặc đang là học sinh sinh viên và thường đi một mình hoặc hai người.
  
  III. Phân tích dữ liệu
 
- 1.Xu hướng du lịch
+ 1.Xu hướng lượng đặt tour du lịch
 
-* Số lượng tour đặt tại Viet Youth Travel tăng nhẹ trong hai năm 2022 và 2023 (1210 - 1394), nhưng sau đó tăng mạnh trong hai năm tiếp theo 2024 và 2025 (2622 - 2318). Doanh thu của Viet Youth Travel trong giai đoạn này cũng phản ánh điều tương tự khi doanh thu tăng mạnh . Bên cạnh sự phục hồi của ngành du lịch Việt Nam, việc điều chỉnh các sản phẩm nhằm phù hợp hơn với thị hiếu của khách du lịch sau đại dịch Covid-19 của Viet Youth Travel đã góp phần giúp lượng tour và doanh thu của công ty trong giai đoạn trên tăng nhanh chóng
+  _ Biểu đồ đường
 
-* Những dịp nghỉ lễ (30/4, 1/5, 2/9), dịp tết nguyên đán và những tháng hè (Tháng 5 - Tháng 7) là quãng thời gian ghi nhận lượng đăng ký đặt tour cao nhất trong một năm.
-
-* Tour du lịch biển và gia đình là những loại hình du lịch nhận được nhiều lượt đặt và doanh thu lớn nhất cho công ty
-Các điểm đến du lịch văn hóa và văn hóa nổi tiếng như Phú Quốc, Đà Nẵng, Nha Trang và Hội An thu hút lượng đặt tour lớn nhất
+ * Tăng chậm trong hai năm đầu: Số lượng tour đặt tại Tuổi Trẻ Việt Travel tăng nhẹ trong hai năm 2022 (1210) và 2023 (1394)
   
- 2. Nhóm khách hàng chính
+ * Tăng trưởng nhanh hai năm sau: Số lượng tour được đặt sau đó tăng mạnh trong hai năm 2024 (2622) và 2025 (2318).
 
-* Nhóm khách đi một mình là nhóm
+  _ Biểu đồ cột
 
+ * Đi du lịch vào dịp lễ và mùa hè: Khách chủ yêu đặt tour đi du lịch vào những dịp nghỉ lễ (30/4, 1/5, 2/9), dịp tết nguyên đán và những tháng hè (Tháng 5 - Tháng 7)
+  
+ * Tour du lịch biển và gia đình là những tour nhận được nhiều lượt đặt nhất tại Tuổi Trẻ Việt Travel, với các điểm đến du lịch văn hóa và văn hóa nổi tiếng như Phú Quốc, Đà Nẵng, Nha Trang và Hội An thu hút lượng đặt tour lớn nhất
+
+* Nhóm khách 
+  
+ 2. Doanh thu
+
+  _ Biểu đồ đường
+
+* Doanh thu của Tuổi Trẻ Việt Travel tăng nhẹ trong hai năm 2022 () và 2023 (), nhưng sau đó tăng mạnh trong hai năm 2024 () và 2025 ().
+
+* 
+* k
+* 'k
+* kj'
+* 
  
- 3. Kênh bán hàng
+ 3. Trải nghiệm dịch vụ
 
+* Ưa chuộng đặt tour qua website: Khách hàng có xu hướng đặt tour nhiều nhất qua website (), sau đó tới ứng dụng di động và đại lý bán hàng ()
 
+_ Line chart   
+
+* Khách du lịch có tỉ lệ hai lòng cao khi trải nghiệm tour du lịch tại Tuổi Trẻ Việt Travel ().
+
+_
+ 
+* Tỉ lệ khách hàng quay trở lại ở mức cao: 70.6% khách hàng trở lại sử dụng dịch vụ lữ hành tại Tuổi Trẻ Việt Travel
+
+_Pie chart
 
  IV. Đề xuất giải pháp
 
