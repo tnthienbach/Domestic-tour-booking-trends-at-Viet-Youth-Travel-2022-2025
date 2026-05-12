@@ -30,8 +30,10 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
   
  * Tăng trưởng nhanh hai năm sau: Số lượng tour được đặt sau đó tăng mạnh trong hai năm 2024 (2622) và 2025 (2318).
 
-  _ Biểu đồ cột
-
+<div align="center">
+<h1><><h1>
+</div>
+  
  * Đi du lịch vào dịp lễ và mùa hè: Khách chủ yêu đặt tour đi du lịch vào những dịp nghỉ lễ (30/4, 1/5, 2/9), dịp tết nguyên đán và những tháng hè (Tháng 5 - Tháng 7)
   
  * Tour du lịch biển và gia đình là những tour nhận được nhiều lượt đặt nhất tại Tuổi Trẻ Việt Travel, với các điểm đến du lịch văn hóa và văn hóa nổi tiếng như Phú Quốc, Đà Nẵng, Nha Trang và Hội An thu hút lượng đặt tour lớn nhất
