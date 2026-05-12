@@ -22,7 +22,7 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
 
  1.Xu hướng lượng đặt tour du lịch
 
-  _ Biểu đồ đường
+<img width="488" height="199" alt="Image" src="https://github.com/user-attachments/assets/768816eb-38e0-4367-9fba-022f3a42de3b" />
 
  * Tăng chậm trong hai năm đầu: Số lượng tour đặt tại Tuổi Trẻ Việt Travel tăng nhẹ trong hai năm 2022 (1210) và 2023 (1394)
   
