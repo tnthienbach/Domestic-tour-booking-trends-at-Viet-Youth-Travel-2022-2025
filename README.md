@@ -32,9 +32,9 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
 <h1><img width="488" height="199" alt="Image" src="https://github.com/user-attachments/assets/768816eb-38e0-4367-9fba-022f3a42de3b" /><h1>
 </div>
 
- * Tăng chậm trong hai năm đầu: Số lượng tour đặt tại Tuổi Trẻ Việt Travel tăng nhẹ trong hai năm 2022 (1210) và 2023 (1394)
-  
- * Tăng trưởng nhanh hai năm sau: Số lượng tour được đặt sau đó tăng mạnh trong hai năm 2024 (2622) và 2025 (2318).
+ * Tăng chậm trong giai đoạn đầu: Tuổi Trẻ Việt Travel ghi nhận lượng tour tăng nhẹ từ 834 tour năm 2022 lên 860 tour trong năm 2023. Đây là giai đoạn đầu công ty mở rộng phạm vi tour, đồng thời đây là quãng thời gian ngành du lịch Việt Nam phục hồi sau ảnh hưởng của đại dịch Covid-19.
+   
+ * Tăng chậm trong giai đoạn đầu Số lượng tour được đặt sau đó tăng mạnh trong hai năm 2024 (1599 tour). Năm 2025 tuy số lượng tour giảm so với năm trước (1125 tour), nhưng vẫn cao hơn so với năm 2022 và 2023.
 
 <div align="center">
 <h1> <img width="488" height="199" alt="Image" src="https://github.com/user-attachments/assets/1ef0019a-2150-4497-83f1-b385d2221c61" /> <h1>
