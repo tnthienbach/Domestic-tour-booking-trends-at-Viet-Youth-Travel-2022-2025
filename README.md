@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Xu hướng đặt tour du lịch nội địa tại Viet Youth Travel 2022-2025</h1>
+  <h1>Xu hướng đặt tour du lịch nội địa tại Tuổi Trẻ Việt Travel 2022-2025</h1>
 </div>
 
  I. Bối cảnh
@@ -31,10 +31,10 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
  * Tăng trưởng nhanh hai năm sau: Số lượng tour được đặt sau đó tăng mạnh trong hai năm 2024 (2622) và 2025 (2318).
 
 <div align="center">
-<h1>![image alt](https://github.com/tnthienbach/Domestic-tour-booking-trends-at-Viet-Youth-Travel-2022-2025/blob/bdd2322ab3d4e573c789241e6cadef4ecdeceb5c/Screenshot%202026-05-12%20154102.png)<h1>
+<h1> <img width="488" height="199" alt="Image" src="https://github.com/user-attachments/assets/1ef0019a-2150-4497-83f1-b385d2221c61" /> <h1>
 </div>
   
- * Đi du lịch vào dịp lễ và mùa hè: Khách chủ yêu đặt tour đi du lịch vào những dịp nghỉ lễ (30/4, 1/5, 2/9), dịp tết nguyên đán và những tháng hè (Tháng 5 - Tháng 7)
+ * Tour du lịch vào dịp lễ và mùa hè: Khách chủ yêu đặt tour đi du lịch vào những dịp nghỉ lễ (30/4, 1/5, 2/9), dịp tết nguyên đán và những tháng hè (Tháng 5 - Tháng 8)
   
  * Tour du lịch biển và gia đình là những tour nhận được nhiều lượt đặt nhất tại Tuổi Trẻ Việt Travel, với các điểm đến du lịch văn hóa và văn hóa nổi tiếng như Phú Quốc, Đà Nẵng, Nha Trang và Hội An thu hút lượng đặt tour lớn nhất
 
