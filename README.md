@@ -34,11 +34,11 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
 <h1> <img width="488" height="199" alt="Image" src="https://github.com/user-attachments/assets/1ef0019a-2150-4497-83f1-b385d2221c61" /> <h1>
 </div>
   
- * Tour du lịch vào dịp lễ và mùa hè: Khách chủ yêu đặt tour đi du lịch vào những dịp nghỉ lễ (30/4, 1/5, 2/9), dịp tết nguyên đán và những tháng hè (Tháng 5 - Tháng 8)
+ * Xu hướng đi du lịch vào dịp lễ và mùa hè: Khách chủ yêu đặt tour đi du lịch vào những dịp nghỉ lễ (30/4, 1/5, 2/9), dịp tết nguyên đán và những tháng hè (Tháng 5 - Tháng 8)
 
 <div align="center">
-<h1><img width="282" height="145" alt="Image" src="https://github.com/user-attachments/assets/3c8aa673-183a-4141-bb02-2bf0987ccb78" /><img width="278" height="145" alt="Image" src="https://github.com/user-attachments/assets/5a9c6218-6957-42d3-81c2-cd3f4ac95121"
-  /><h1>
+<h1><img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/3c8aa673-183a-4141-bb02-2bf0987ccb78" />
+<img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/5a9c6218-6957-42d3-81c2-cd3f4ac95121" /><h1>
 </div>
   
   
@@ -49,27 +49,44 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
   
  2. Doanh thu
 
-<img width="490" height="198" alt="Image" src="https://github.com/user-attachments/assets/03683d66-918b-4ec0-b8a3-9a040e35e809" />
+<div align="center">
+<h1><img width="488" height="198" alt="Image" src="https://github.com/user-attachments/assets/03683d66-918b-4ec0-b8a3-9a040e35e809" /><h1>
+</div>
 
 * Doanh thu của Tuổi Trẻ Việt Travel tăng nhẹ trong hai năm 2022 () và 2023 (), nhưng sau đó tăng mạnh trong hai năm 2024 () và 2025 ().
+  
+
+<div align="center">
+<h1><img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/d21c085a-37bb-445f-89fa-710d2bffbe87" />
+<img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/cb13f0e9-bd10-44c2-b3d4-d065584b5cec" /><h1>
+</div>
+
 
 * Doanh thu từ tour du lịch biển chiếm đa số: doanh thu từ các tour Du lịch biển chiếm phần lớn doanh thu tại , tiếp theo sau là tour gia đình và tour khám phá
 
 * Giá trị trung bình trên một đợt đặt tour của các tour khám phá cao nhất, theo sau là tour biển và tour gia đình
+
+<div align="center">
+<h1><img width="450" height="198" alt="Image" src="https://github.com/user-attachments/assets/02d26f68-4945-4b37-b365-09f734033228" /><h1>
+</div>
 
 * Các địa điểm giáp biển thu hút khách: Các tour du lịch đi Phú Quốc, Nha Trang, Đà Nẵng, Hạ Long ghi nhận doanh thu lớn
 
  
  3. Nhóm khách hàng chính
 
-<img width="285" height="137" alt="Image" src="https://github.com/user-attachments/assets/002828d5-11f3-4a8b-91f6-bb1cf101e113"/>
-<img width="273" height="145" alt="Image" src="https://github.com/user-attachments/assets/e2a3c851-cc9f-4623-93e9-8e90ad5c1d21"/>
+<div align="center">
+<h1><img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/002828d5-11f3-4a8b-91f6-bb1cf101e113"/>
+<img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/e2a3c851-cc9f-4623-93e9-8e90ad5c1d21"/><h1>
+</div>
 
 *Nhóm khách
 
-<img width="441" height="230" alt="Image" src="https://github.com/user-attachments/assets/5da46aaa-e00b-4288-b371-51887001c839"/>
-<img width="284" height="149" alt="Image" src="https://github.com/user-attachments/assets/96fdfbf6-b3dd-45e1-a6b3-025cdcb88f18"/>
-<img width="272" height="143" alt="Image" src="https://github.com/user-attachments/assets/6e978fa7-ad40-4f43-bba6-1714a52b66b6"/> 
+<div align="center">
+<h1><img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/cc968c5f-c837-4451-aa1d-e92f0ba3a796" />
+<img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/96fdfbf6-b3dd-45e1-a6b3-025cdcb88f18"/>
+<img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/6e978fa7-ad40-4f43-bba6-1714a52b66b6"/><h1>
+</div> 
 
 * Nhóm khách đơn: đây là nhóm ghi nhận lượng tour lớn nhất tại Tuổi Trẻ Việt Travel, tuy vậy là nhóm đóng góp doanh thu thấp cho công ty, doanh thu trung bình trên một đợt đặt tour của họ cũng ở mức thấp
 
@@ -80,7 +97,7 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
  4.  Trải nghiệm dịch vụ
 
 <div align="center">
-<h1><img width="388" height="137" alt="Image" src="https://github.com/user-attachments/assets/43e7d34a-9981-4dbe-bfb0-9dbc96b6fa4c" /><h1>
+<h1><img width="488" height="225" alt="Image" src="https://github.com/user-attachments/assets/43e7d34a-9981-4dbe-bfb0-9dbc96b6fa4c" /><h1>
 </div>
 
 * Ưa chuộng đặt tour qua website: Khách hàng có xu hướng đặt tour nhiều nhất qua website (), sau đó tới ứng dụng di động và đại lý bán hàng ()
@@ -90,7 +107,7 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
 * Khách du lịch có tỉ lệ hai lòng cao khi trải nghiệm tour du lịch tại Tuổi Trẻ Việt Travel ().
 
 _<div align="center">
-<h1><img width="312" height="98" alt="Image" src="https://github.com/user-attachments/assets/0e36bd6b-cbb5-4c55-a884-fa16b15deccb" />
+<h1><img width="488" height="150" alt="Image" src="https://github.com/user-attachments/assets/0e36bd6b-cbb5-4c55-a884-fa16b15deccb" />
 </div>
 
  
