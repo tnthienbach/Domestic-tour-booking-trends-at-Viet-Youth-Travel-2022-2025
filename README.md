@@ -31,7 +31,7 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
  * Tăng trưởng nhanh hai năm sau: Số lượng tour được đặt sau đó tăng mạnh trong hai năm 2024 (2622) và 2025 (2318).
 
 <div align="center">
-<h1><><h1>
+<h1>![image alt](https://github.com/tnthienbach/Domestic-tour-booking-trends-at-Viet-Youth-Travel-2022-2025/blob/bdd2322ab3d4e573c789241e6cadef4ecdeceb5c/Screenshot%202026-05-12%20154102.png)<h1>
 </div>
   
  * Đi du lịch vào dịp lễ và mùa hè: Khách chủ yêu đặt tour đi du lịch vào những dịp nghỉ lễ (30/4, 1/5, 2/9), dịp tết nguyên đán và những tháng hè (Tháng 5 - Tháng 7)
