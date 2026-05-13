@@ -1,3 +1,9 @@
+
+<div align="center">
+  <h1<img width="225" height="225" alt="Image" src="https://github.com/user-attachments/assets/0d4660f2-7e9f-4bac-8f7b-e8c83c09567d" /><h1>
+</div>
+
+
 <div align="center">
   <h1>Xu hướng đặt tour du lịch nội địa tại Tuổi Trẻ Việt Travel 2022-2025</h1>
 </div>
@@ -102,12 +108,14 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
 
 * Ưa chuộng đặt tour qua website: Khách hàng có xu hướng đặt tour nhiều nhất qua website (), sau đó tới ứng dụng di động và đại lý bán hàng ()
 
-
+_<div align="center">
+<h1><img width="488" height="240" alt="Image" src="https://github.com/user-attachments/assets/63d1d7ce-dbbd-449c-92b9-679b1f154830" /><h1>
+</div>
 
 * Khách du lịch có tỉ lệ hai lòng cao khi trải nghiệm tour du lịch tại Tuổi Trẻ Việt Travel ().
 
 _<div align="center">
-<h1><img width="488" height="150" alt="Image" src="https://github.com/user-attachments/assets/0e36bd6b-cbb5-4c55-a884-fa16b15deccb" />
+<h1><img width="488" height="150" alt="Image" src="https://github.com/user-attachments/assets/0e36bd6b-cbb5-4c55-a884-fa16b15deccb" /><h1>
 </div>
 
  
