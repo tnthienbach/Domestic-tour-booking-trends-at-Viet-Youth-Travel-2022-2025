@@ -35,6 +35,10 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
 </div>
   
  * Tour du lịch vào dịp lễ và mùa hè: Khách chủ yêu đặt tour đi du lịch vào những dịp nghỉ lễ (30/4, 1/5, 2/9), dịp tết nguyên đán và những tháng hè (Tháng 5 - Tháng 8)
+
+<div align="center">
+<h1><img width="278" height="145" alt="Image" src="https://github.com/user-attachments/assets/5a9c6218-6957-42d3-81c2-cd3f4ac95121" /><img width="282" height="145" alt="Image" src="https://github.com/user-attachments/assets/3c8aa673-183a-4141-bb02-2bf0987ccb78" /><h1>
+</div>
   
  * Tour du lịch biển và gia đình là những tour nhận được nhiều lượt đặt nhất tại Tuổi Trẻ Việt Travel, với các điểm đến du lịch văn hóa và văn hóa nổi tiếng như Phú Quốc, Đà Nẵng, Nha Trang và Hội An thu hút lượng đặt tour lớn nhất
 
@@ -60,6 +64,10 @@ _pie chart
  
  3. Nhóm khách hàng chính
 
+
+ <img width="441" height="230" alt="Image" src="https://github.com/user-attachments/assets/5da46aaa-e00b-4288-b371-51887001c839"/>
+ 
+
 * Nhóm khách đơn: đây là nhóm ghi nhận lượng tour lớn nhất tại Tuổi Trẻ Việt Travel, tuy vậy là nhóm đóng góp doanh thu thấp cho công ty, doanh thu trung bình trên một đợt đặt tour của họ cũng ở mức thấp
 
 * Nhóm khách 2 người: là nhóm ghi nhận lượng tour lớn thứ hai, nhưng là đây là nhóm đóng góp doanh thu lớn nhất cho Tuổi Trẻ Việt Travel
@@ -68,17 +76,23 @@ _pie chart
    
  4.  Trải nghiệm dịch vụ
 
+<div align="center">
+<h1><img width="388" height="137" alt="Image" src="https://github.com/user-attachments/assets/43e7d34a-9981-4dbe-bfb0-9dbc96b6fa4c" /><h1>
+</div>
+
 * Ưa chuộng đặt tour qua website: Khách hàng có xu hướng đặt tour nhiều nhất qua website (), sau đó tới ứng dụng di động và đại lý bán hàng ()
 
-_ Line chart   
+
 
 * Khách du lịch có tỉ lệ hai lòng cao khi trải nghiệm tour du lịch tại Tuổi Trẻ Việt Travel ().
 
-_
+_<div align="center">
+<h1><img width="312" height="98" alt="Image" src="https://github.com/user-attachments/assets/0e36bd6b-cbb5-4c55-a884-fa16b15deccb" />
+</div>
+
  
 * Tỉ lệ khách hàng quay trở lại ở mức cao: 70.6% khách hàng trở lại sử dụng dịch vụ lữ hành tại Tuổi Trẻ Việt Travel
 
-_Pie chart
 
  IV. Đề xuất giải pháp
 
