@@ -34,7 +34,7 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
 
  * **Tăng chậm trong giai đoạn đầu**: Tuổi Trẻ Việt Travel ghi nhận lượng tour tăng nhẹ từ 834 tour năm 2022 lên 860 tour trong năm 2023. Đây là giai đoạn đầu công ty mở rộng phạm vi tour, đây đồng thời là quãng thời gian ngành du lịch Việt Nam phục hồi sau ảnh hưởng của đại dịch Covid-19.
    
- * **Tăng mạnh trong hai năm tiếp theo**: Số lượng tour được đặt sau đó tăng mạnh trong hai năm 2024 (1599 tour). Tuy số lượng đặt tour trong năm 2025 giảm so với năm trước (1125 tour), nhưng vẫn cao hơn so với năm 2022 và 2023. Điều này cho thấy sự điều chỉnh chiến lược bán hàng, sản phẩm du lịch phù hợp với thị hiếu của khách của công ty đã mang lại hiệu quả.
+ * **Tăng mạnh trong hai năm tiếp theo**: Số lượng tour được đặt sau đó tăng mạnh trong hai năm 2024 (1599 tour). Tuy số lượng đặt tour trong năm 2025 giảm so với năm trước (1125 tour), nhưng vẫn cao hơn so với năm 2022 và 2023. Sự thay đổi định hướng sản phẩm du lịch phù hợp hơn với nhu cầu khách du lịch sau đại dịch của công ty đã cho thấy sự hiểu quả.
 
 <div align="center">
 <h1> <img width="488" height="199" alt="Image" src="https://github.com/user-attachments/assets/1ef0019a-2150-4497-83f1-b385d2221c61" /> <h1>
@@ -48,7 +48,7 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
 </div>
   
   
- * **Tour du lịch biển và văn hóa chiếm đa số**: Các sản phảm du lịch biển và du lịch văn hóa cảu Tuổi Trẻ Việt Travel ghi nhận **lượng đặt lớn nhất** tại với các điểm đến nổi tiếng về biển và văn hóa như Phú Quốc, Nha Trang , Hội An và Đà Nẵng là lựa chọn hàng đầu của khách du lịch
+ * **Tour du lịch biển và văn hóa chiếm đa số**: Các sản phảm du lịch biển và du lịch văn hóa của Tuổi Trẻ Việt Travel ghi nhận **lượng đặt tour lớn nhất** với các điểm đến nổi tiếng về biển và văn hóa như Phú Quốc, Nha Trang , Hội An và Đà Nẵng là lựa chọn hàng đầu của khách du lịch
    
  * Nhiều dư địa phát triển cho tour City Break và ăn uống: Ở chiều ngược lại, các sản phẩm du lịch City Break (kỳ nghỉ ngắn trong ngày tại một thành phố) và du lịch ăn uống chưa nhận được sự quan tâm của khách hàng tại Tuổi Trẻ Việt Travel, điều này cho thấy cản sảm phẩm trên vẫn còn nhiều dư địa phát triển.
   
@@ -58,9 +58,8 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
 <h1><img width="488" height="198" alt="Image" src="https://github.com/user-attachments/assets/03683d66-918b-4ec0-b8a3-9a040e35e809" /><h1>
 </div>
 
-* Doanh thu của Tuổi Trẻ Việt Travel tăng nhẹ trong hai năm 2022 () và 2023 (), nhưng sau đó tăng mạnh trong hai năm 2024 () và 2025 ().
+* **Tăng nhẹ trong giai đoạn đầu nhưng tăng mạnh giai đoạn sau**: Doanh thu của Tuổi Trẻ Việt Travel được ghi nhận tăng nhẹ từ 4.7 tỷ VND năm 2022 lên 4.9 tỷ VND năm 2023 (), nhưng sau đó tăng mạnh trong năm 2024 (9 tỷ VND). Tuy vậy năm 2025 doanh thu đã giảm còn 6 tỷ VND.
   
-
 <div align="center">
 <h1><img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/d21c085a-37bb-445f-89fa-710d2bffbe87" />
 <img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/cb13f0e9-bd10-44c2-b3d4-d065584b5cec" /><h1>
@@ -72,7 +71,7 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
 * Giá trị trung bình trên một đợt đặt tour của các tour khám phá cao nhất, theo sau là tour biển và tour gia đình
 
 <div align="center">
-<h1><img width="450" height="198" alt="Image" src="https://github.com/user-attachments/assets/02d26f68-4945-4b37-b365-09f734033228" /><h1>
+<h1><img width="450" height="230" alt="Image" src="https://github.com/user-attachments/assets/02d26f68-4945-4b37-b365-09f734033228" /><h1>
 </div>
 
 * Các địa điểm giáp biển thu hút khách: Các tour du lịch đi Phú Quốc, Nha Trang, Đà Nẵng, Hạ Long ghi nhận doanh thu lớn
