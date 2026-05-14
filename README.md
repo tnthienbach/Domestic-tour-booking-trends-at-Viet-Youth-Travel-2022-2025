@@ -61,20 +61,21 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
 * **Tăng nhẹ trong giai đoạn đầu nhưng tăng mạnh giai đoạn sau**: Doanh thu của Tuổi Trẻ Việt Travel được ghi nhận tăng nhẹ từ 4.7 tỷ VND năm 2022 lên 4.9 tỷ VND năm 2023 (), nhưng sau đó tăng mạnh trong năm 2024 (9 tỷ VND). Tuy vậy năm 2025 doanh thu đã giảm còn 6 tỷ VND.
   
 <div align="center">
-<h1><img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/d21c085a-37bb-445f-89fa-710d2bffbe87" />
-<img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/cb13f0e9-bd10-44c2-b3d4-d065584b5cec" /><h1>
+<h1><img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/cb13f0e9-bd10-44c2-b3d4-d065584b5cec" />
+  <img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/d21c085a-37bb-445f-89fa-710d2bffbe87" /><h1>
 </div>
 
 
-* Doanh thu từ tour du lịch biển chiếm đa số: doanh thu từ các tour Du lịch biển chiếm phần lớn doanh thu tại , tiếp theo sau là tour gia đình và tour khám phá
+* **Tổng doanh thu từ tour du lịch biển chiếm đa số**: các sản phẩm du lịch biển mang lại doanh thu cao nhất cho công ty (7.4 tỷ VND)
 
-* Giá trị trung bình trên một đợt đặt tour của các tour khám phá cao nhất, theo sau là tour biển và tour gia đình
+* **Doanh thu trung bình tour khám phá đứng đầu**: Doanh thu trung bình của một tour khám phá tại Tuổi Trẻ Việt Travel ghi nhận đứng đầu với 8.5 triệu VND một chuyến, tiếp theo sau là tour gia đình (7.4 triệu VND) và tour biển (7.1 triệu VND)
+  
 
 <div align="center">
-<h1><img width="450" height="230" alt="Image" src="https://github.com/user-attachments/assets/02d26f68-4945-4b37-b365-09f734033228" /><h1>
+<h1><img width="450" height="230" alt="Image" src="https://github.com/user-attachments/assets/02d26f68-4945-4b37-b365-09f734033228" />
 </div>
 
-* Các địa điểm giáp biển thu hút khách: Các tour du lịch đi Phú Quốc, Nha Trang, Đà Nẵng, Hạ Long ghi nhận doanh thu lớn
+* **Các địa điểm du lịch đóng góp doanh thu lớn**: Các tour du lịch đi các địa điểm như Phú Quốc, Nha Trang, Đà Nẵng và Hạ Long ghi nhận doanh thu lớn .
 
  
  3. Nhóm khách hàng chính
@@ -84,7 +85,7 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
 <img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/e2a3c851-cc9f-4623-93e9-8e90ad5c1d21"/><h1>
 </div>
 
-*Nhóm khách
+*Đối tượng khách
 
 <div align="center">
 <h1><img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/cc968c5f-c837-4451-aa1d-e92f0ba3a796" />
