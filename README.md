@@ -107,20 +107,26 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
 <h1><img width="488" height="225" alt="Image" src="https://github.com/user-attachments/assets/43e7d34a-9981-4dbe-bfb0-9dbc96b6fa4c" /><h1>
 </div>
 
-* Ưa chuộng đặt tour qua website: Khách hàng có xu hướng đặt tour nhiều nhất qua website (), sau đó tới ứng dụng di động và đại lý bán hàng ()
+* **Ưa chuộng đặt tour qua website**: Tại Tuổi Trẻ Việt Travel, tỉ lệ tour được đặt thông qua qua website chiếm đến 48.1%.
 
-_<div align="center">
+<div align="center">
+<h1><img width="488" height="225" alt="Image" src="https://github.com/user-attachments/assets/a2a3f060-8e57-4526-a1ab-6818724619c6" /><h1>
+</div>
+
+* **Khách hàng có xu hướng thanh toán qua thẻ**: Khi thanh toán dịch vụ du lịch tại Tuổi Trẻ Việt Travel, khách hàng thanh toán qua thẻ chiếm 53.9% tổng lượt giao dịch. Bên cạnh thẻ, khách hàng còn thanh toán qua chuyển khoản tiền mặt và tiền mặt nhưng với tỉ lệ thấp hơn (19.7% và 15.1%). 
+
+<div align="center">
 <h1><img width="470" height="240" alt="Image" src="https://github.com/user-attachments/assets/63d1d7ce-dbbd-449c-92b9-679b1f154830" /><h1>
 </div>
 
-* Khách du lịch có tỉ lệ hai lòng cao khi trải nghiệm tour du lịch tại Tuổi Trẻ Việt Travel ().
+* **Tỉ lệ hai lòng cao**: Các đánh giá từ 4 điểm trở lên chiếm 72.01%. Điều đó cho thấy tỉ lệ hài lòng của khách hàng về trải nghiệm dịch vụ tại Tuổi Trẻ Việt Travel đang ở mức cao.
 
-_<div align="center">
+<div align="center">
 <h1><img width="488" height="150" alt="Image" src="https://github.com/user-attachments/assets/0e36bd6b-cbb5-4c55-a884-fa16b15deccb" /><h1>
 </div>
 
  
-* Tỉ lệ khách hàng quay trở lại ở mức cao: 70.6% khách hàng trở lại sử dụng dịch vụ lữ hành tại Tuổi Trẻ Việt Travel
+* **Tỉ lệ khách hàng quay trở lại ở mức cao**: 66.12% khách hàng lựa chọn trở lại sử dụng dịch vụ lữ hành tại Tuổi Trẻ Việt Travel.
 
 
  IV. Đề xuất giải pháp
